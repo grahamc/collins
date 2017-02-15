@@ -29,6 +29,7 @@ scalacOptions += "-language:postfixOps"
 scalacOptions += "-language:implicitConversions"
 
 libraryDependencies ++= Seq(
+  "xml-apis" % "xml-apis" % "1.3.04",
   "org.specs2" %% "specs2" % "2.3.13" % "test",
   "com.google.guava" % "guava" % "18.0",
   "com.jolbox" % "bonecp" % "0.8.0.RELEASE",

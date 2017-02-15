@@ -854,6 +854,10 @@
       url = "https://repo1.maven.org/maven2/org/apache/apache/15/apache-15.pom";
       sha256 = "156lk89x31r2d6ljpwl1lvrl0sxgkd70wj6bq18b8rxcg7wz5hin";
     };
+    "nix-public/org/apache/apache/3/apache-3.pom" = {
+      url = "https://repo1.maven.org/maven2/org/apache/apache/3/apache-3.pom";
+      sha256 = "03m2hw8lmc4d600wwbmmfngv240639daaxskgssnxampnjpm0g1r";
+    };
     "nix-public/org/apache/apache/4/apache-4.pom" = {
       url = "https://repo1.maven.org/maven2/org/apache/apache/4/apache-4.pom";
       sha256 = "152iri0kbrxir93w23b31045gpvh3g9rc37gxya27sx8dfi274wy";
@@ -2301,6 +2305,14 @@
     "nix-public/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.pom" = {
       url = "https://repo1.maven.org/maven2/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.pom";
       sha256 = "0664ha8ndb1mrh3fi53a191gnqb4lhwwqc9m4g1b51jpbbbv5rik";
+    };
+    "nix-public/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.jar" = {
+      url = "https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.jar";
+      sha256 = "0r4akwzz85zzivl74n9blwbx8v2h27m88vjlzfjggidr3s4al16l";
+    };
+    "nix-public/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.pom" = {
+      url = "https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04.pom";
+      sha256 = "1cap7cy6xwzvqsx9ywxkw5j2pyiflfbr1accshbcchabsi4zv89m";
     };
     "nix-public/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar" = {
       url = "https://repo1.maven.org/maven2/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar";
