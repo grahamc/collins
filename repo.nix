@@ -1302,6 +1302,26 @@
       url = "https://repo1.maven.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.pom";
       sha256 = "1gd1cx26ci9pmmbvmr4b7n7hr1p4fba77l79lzyj5prml86xqi9v";
     };
+    "nix-public/org/easytesting/fest-assert/1.4/fest-assert-1.4.jar" = {
+      url = "https://repo1.maven.org/maven2/org/easytesting/fest-assert/1.4/fest-assert-1.4.jar";
+      sha256 = "0kr46hk9mcd4k9d2w25hiq1y9fxsyb6sbmh18ib7ndbsrnq9ryca";
+    };
+    "nix-public/org/easytesting/fest-assert/1.4/fest-assert-1.4.pom" = {
+      url = "https://repo1.maven.org/maven2/org/easytesting/fest-assert/1.4/fest-assert-1.4.pom";
+      sha256 = "0vy8cml3zll2vvk20f0qg3afqizjfqf3s5yi17qhxkkvwrym6mpb";
+    };
+    "nix-public/org/easytesting/fest-util/1.1.6/fest-util-1.1.6.jar" = {
+      url = "https://repo1.maven.org/maven2/org/easytesting/fest-util/1.1.6/fest-util-1.1.6.jar";
+      sha256 = "12fxxkqwicknj9bd4hkaip4bvd40f1dl0fysx7n805az4alj126z";
+    };
+    "nix-public/org/easytesting/fest-util/1.1.6/fest-util-1.1.6.pom" = {
+      url = "https://repo1.maven.org/maven2/org/easytesting/fest-util/1.1.6/fest-util-1.1.6.pom";
+      sha256 = "072ndhvsl9pk0zr9dkhk444wah55gvqmdh3pl8by42wr5j5cpyh3";
+    };
+    "nix-public/org/easytesting/fest/1.0.8/fest-1.0.8.pom" = {
+      url = "https://repo1.maven.org/maven2/org/easytesting/fest/1.0.8/fest-1.0.8.pom";
+      sha256 = "131ids181iv4hn1crwsmls9r2y42frii7gk5z919zhgrwjjwlx65";
+    };
     "nix-public/org/eclipse/jetty/jetty-continuation/9.2.11.v20150529/jetty-continuation-9.2.11.v20150529.jar" = {
       url = "https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-continuation/9.2.11.v20150529/jetty-continuation-9.2.11.v20150529.jar";
       sha256 = "0s0aw8y2n21sv73sl0zvi483a1h4vg5zfbljnclddxnqm4dfnz1q";
@@ -1825,6 +1845,14 @@
     "nix-public/org/scala-lang/scalap/2.11.1/scalap-2.11.1.pom" = {
       url = "https://repo1.maven.org/maven2/org/scala-lang/scalap/2.11.1/scalap-2.11.1.pom";
       sha256 = "0rlvg2v1qlzig09nyfivzz5vbpgly73jr019zmnl37ncvcbz5mg7";
+    };
+    "nix-public/org/scala-lang/scalap/2.11.7/scalap-2.11.7.jar" = {
+      url = "https://repo1.maven.org/maven2/org/scala-lang/scalap/2.11.7/scalap-2.11.7.jar";
+      sha256 = "0yki7x91rp0vwxk1jy7j9bs14msdcp3j0fsiibdyvkz1gfm0misv";
+    };
+    "nix-public/org/scala-lang/scalap/2.11.7/scalap-2.11.7.pom" = {
+      url = "https://repo1.maven.org/maven2/org/scala-lang/scalap/2.11.7/scalap-2.11.7.pom";
+      sha256 = "0kf7x8cknwkqlf8zmvmcdmay31vrs3052g87m9jf2ngv6kanwh2m";
     };
     "nix-public/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar" = {
       url = "https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar";
