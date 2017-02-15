@@ -11,7 +11,7 @@ in
     sbtix.buildSbtProject {
         name = "collins";
         src = ./.;
-        repo = [ (import "${sbtixDir}/manual-repo.nix")
+        repo = [ (import ./manual-repo.nix)
                  (import ./repo.nix)
                  (import ./project/repo.nix)
                ];
