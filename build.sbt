@@ -4,6 +4,8 @@ resolvers += "Sonatype-public" at "http://oss.sonatype.org/content/groups/public
 
 resolvers += "Restlet repository" at "http://maven.restlet.org"
 
+resolvers += Resolver.url("sbt-plugins-releases", url("https://dl.bintray.com/playframework/sbt-plugin-releases"))(Resolver.ivyStylePatterns)
+
 Keys.fork in Test := true
 
 javaOptions in Test := Seq("-Dconfig.file=conf/test.conf", "-XX:MaxPermSize=512M", "-Xms512m", "-Xmx512m")
